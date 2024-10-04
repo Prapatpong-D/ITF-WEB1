@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    width: 905px;
+    height: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-item-container{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+    padding: 10px;
+    justify-content: end;
+}
+.nav-item{
+    color: blueviolet;
+    background-color: aliceblue;
+}
+.nav-item-container{
+    display: flex;
+}
+
+.img {
+    height: 20cm;
+}
