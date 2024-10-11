@@ -1,0 +1,50 @@
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(236, 165, 57);
+    padding: 5px 20px;
+    column-gap: 5px;
+    justify-content: space-between;
+}
+.nav-item{
+    color: black;
+    font-family: monospace;
+}
+.nav-item-container{
+    display: flex;
+    column-gap: 15px;
+}
+button{
+    background-color: aliceblue;
+    border: none;
+    color: royalblue;
+    border-radius: 5%;
+    font-family: monospace;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(236, 165, 57);
+    color: black;
+    font-family: monospace;
+    padding: 5px;
+}
+a{
+    color: black;
+    font-family: monospace;
+}
+p{
+    text-align: center;
+}
+.Usename{
+    border-radius: 0%;
+    background-color: rgb(231, 178, 99);
+    font-family: monospace;
+    padding: 1px;
+}
